@@ -24,7 +24,7 @@ find_package(catkin_simple REQUIRED)
 catkin_simple()
 
 find_package(OpenCV REQUIRED)
-find_package(PCL REQUIRED)
+#find_package(PCL REQUIRED)
 
 # add_message_files( DIRECTORY msg FILES ElasFrameData.msg)
 # 
